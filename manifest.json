@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Link Memo",
+  "name": "LinkMemo",
   "version": "1.0",
   "description": "Memo favorite link with pages's title. ",
   "permissions": [
@@ -11,7 +11,7 @@
     "128": "logo46.png"
   },
   "browser_action": {
-    "default_title": "Link Memo",
+    "default_title": "LinkMemo",
     "default_popup": "index.html"
   }
 }
