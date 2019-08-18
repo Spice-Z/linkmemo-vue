@@ -7,8 +7,6 @@ export const fetchMemoList = async () => {
 };
 
 export const reserveMemoList = async memoList => {
-  console.log('reserve')
-  console.log(memoList);
   return new Promise((resolve, reject) => {
     chrome.storage.local.set(
       {
