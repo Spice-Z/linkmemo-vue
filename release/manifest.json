@@ -5,7 +5,7 @@
   "description": "Memo favorite link with pages's title. ",
   "permissions": [
     "storage",
-    "tabs"
+    "activeTab"
   ],
   "icons" : {
     "128": "logo46.png"
